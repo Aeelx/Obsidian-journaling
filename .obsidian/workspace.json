@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "e488b6bad4081728",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b85d65718ab7d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78889039580eedd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07723d6a747467e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfa1c09f7f9ef40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf8892b28386f6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f03a5ea496b0b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "03872b50d11e33a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "544822ec68839fb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0adde406ffad55bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc6fab93d4d263f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "78889039580eedd9",
+  "lastOpenFiles": [
+    "Explanation of modules.md",
+    "README.md",
+    "Templates/Template V5.1.md",
+    "Assets",
+    "Journal pages/2024-12-15 12-58.md",
+    "Journal pages",
+    "Untitled 1.md",
+    "Notes",
+    "Templates"
+  ]
+}
