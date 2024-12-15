@@ -4,11 +4,11 @@
 
 # 🚀 Installation
 - [Download the latest template](https://github.com/Aeelx/Obsidian-journaling/archive/refs/heads/main.zip) and put it in your preferred location 
-- [Download Obsidian if you haven't already](https://obsidian.md/download) (Alternatives are discussed in [#Obsidian alternatives])
+- [Download Obsidian if you haven't already](https://obsidian.md/download) (Alternatives are discussed in [Obsidian alternatives](#obsidian-alternatives-wip))
 - Open the folder in obsidian and enjoy!
 - (Optional) Read the rest of the readme and "Explanation of modules" while in obsidian
-- (Optional) Set an alarm clock to help you consistently journal at your preferred time (Other methods and info are discussed in [#Keeping schedule])
-- (Optional) Enable sync and backups, info in [#Syncing and backing up]
+- (Optional) Set an alarm clock to help you consistently journal at your preferred time (Other methods and info are discussed in [Keeping schedule](#keeping-schedule-wip))
+- (Optional) Enable sync and backups, info in [Syncing and backing up](#syncing-and-backing-up-wip)
 
 Happy journaling :) ❤️
 
