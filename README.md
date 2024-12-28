@@ -1,6 +1,11 @@
-# 📓 Experimental journaling template for obsidian
+<div align="center">
+
+[![Obby journaling, yet another temp](https://github.com/Aeelx/Obsidian-journaling/blob/main/.github/banner.png)](#readme)
+
 #### This is designed to be a bit different from usual journaling techniques to hopefully cover better different people with different needs
-###### It's expected to be a starting point to be modified by you to fit your needs better if you don't feel it's doing it already
+###### It's a starting point that can be modified by you to fit your needs better if you don't feel it's doing it already
+
+</div>
 
 # 🚀 Installation
 - [Download the latest template](https://github.com/Aeelx/Obsidian-journaling/archive/refs/heads/main.zip) and put it in your preferred location 
@@ -10,7 +15,7 @@
 - (Optional) Set an alarm clock to help you consistently journal at your preferred time (Other methods and info are discussed in [Keeping schedule](#keeping-schedule-wip))
 - (Optional) Enable sync and backups, info in [Syncing and backing up](#syncing-and-backing-up-wip)
 
-Happy journaling :) ❤️
+Don't forget to leave a star if you like the project and Happy journaling ❤️
 
 ---
 # Obsidian alternatives (WIP)
