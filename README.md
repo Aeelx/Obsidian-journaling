@@ -5,11 +5,13 @@
 #### This is designed to be a bit different from usual journaling techniques to hopefully cover better different people with different needs
 ###### It's a starting point that can be modified by you to fit your needs better if you don't feel it's doing it already
 
-![Works on IOS](https://img.shields.io/badge/Works%20on-IOS-white?style=for-the-badge&logo=apple) ![Works on Android](https://img.shields.io/badge/Works%20on-Android-white?style=for-the-badge&logo=android&color=%2334A853) 
+![Works on:](https://img.shields.io/badge/Works%20on:-000000?style=for-the-badge)
+![IOS](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=apple)
+![Android](https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android)
+![MacOS](https://custom-icon-badges.demolab.com/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=gray)
+![Windows](https://custom-icon-badges.demolab.com/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
-
-
 
 # 🚀 Installation
 - [Download the latest template](https://github.com/Aeelx/Obsidian-journaling/archive/refs/heads/main.zip) and put it in your preferred location 
